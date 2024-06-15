@@ -1,5 +1,3 @@
-astic.py
-1.70 KiB
 from elasticsearch import Elasticsearch
 import getpass
 def create_index(es, index_name):
